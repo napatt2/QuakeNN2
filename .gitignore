@@ -1,2 +1,9 @@
 
 Fault Friction/test.txt
+output/Model/model0/checkpoint
+output/Model/model0/model.ckpt-1000.ckpt.data-00000-of-00001
+output/Model/model0/model.ckpt-1000.ckpt.index
+output/Model/model0/model.ckpt-1000.ckpt.meta
+output/Model/model0/model.ckpt-50.ckpt.data-00000-of-00001
+output/Model/model0/model.ckpt-50.ckpt.index
+output/Model/model0/model.ckpt-50.ckpt.meta
